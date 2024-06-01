@@ -1,0 +1,7 @@
+C:\Users\Laptop\source\repos\New True of False\New True of False\bin\Debug\New True of False.exe.config
+C:\Users\Laptop\source\repos\New True of False\New True of False\bin\Debug\New True of False.exe
+C:\Users\Laptop\source\repos\New True of False\New True of False\bin\Debug\New True of False.pdb
+C:\Users\Laptop\source\repos\New True of False\New True of False\obj\Debug\New True of False.csproj.AssemblyReference.cache
+C:\Users\Laptop\source\repos\New True of False\New True of False\obj\Debug\New True of False.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\source\repos\New True of False\New True of False\obj\Debug\New True of False.exe
+C:\Users\Laptop\source\repos\New True of False\New True of False\obj\Debug\New True of False.pdb
