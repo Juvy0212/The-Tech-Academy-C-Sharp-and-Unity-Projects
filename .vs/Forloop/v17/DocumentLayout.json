@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Laptop\\Documents\\GitHub\\Basic_C#_Programs\\Forloop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{981ECD6D-F077-410A-9B64-FA27852E6731}|Forloop\\Forloop.csproj|c:\\users\\laptop\\documents\\github\\basic_c#_programs\\forloop\\forloop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{981ECD6D-F077-410A-9B64-FA27852E6731}|Forloop\\Forloop.csproj|solutionrelative:forloop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Documents\\GitHub\\Basic_C#_Programs\\Forloop\\Forloop\\Program.cs",
+              "RelativeDocumentMoniker": "Forloop\\Program.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Documents\\GitHub\\Basic_C#_Programs\\Forloop\\Forloop\\Program.cs",
+              "RelativeToolTip": "Forloop\\Program.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAcwDgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T15:59:00.271Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
