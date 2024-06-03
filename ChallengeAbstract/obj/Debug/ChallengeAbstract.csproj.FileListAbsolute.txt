@@ -1,0 +1,7 @@
+C:\Users\Laptop\Documents\GitHub\Basic_C#_Programs\ChallengeAbstract\ChallengeAbstract\bin\Debug\ChallengeAbstract.exe.config
+C:\Users\Laptop\Documents\GitHub\Basic_C#_Programs\ChallengeAbstract\ChallengeAbstract\bin\Debug\ChallengeAbstract.exe
+C:\Users\Laptop\Documents\GitHub\Basic_C#_Programs\ChallengeAbstract\ChallengeAbstract\bin\Debug\ChallengeAbstract.pdb
+C:\Users\Laptop\Documents\GitHub\Basic_C#_Programs\ChallengeAbstract\ChallengeAbstract\obj\Debug\ChallengeAbstract.csproj.AssemblyReference.cache
+C:\Users\Laptop\Documents\GitHub\Basic_C#_Programs\ChallengeAbstract\ChallengeAbstract\obj\Debug\ChallengeAbstract.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Documents\GitHub\Basic_C#_Programs\ChallengeAbstract\ChallengeAbstract\obj\Debug\ChallengeAbstract.exe
+C:\Users\Laptop\Documents\GitHub\Basic_C#_Programs\ChallengeAbstract\ChallengeAbstract\obj\Debug\ChallengeAbstract.pdb
