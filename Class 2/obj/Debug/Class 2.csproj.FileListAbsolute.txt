@@ -1,7 +1,0 @@
-C:\Users\Laptop\Documents\GitHub\Basic_C#_Programs\Class 2\Class 2\bin\Debug\Class 2.exe.config
-C:\Users\Laptop\Documents\GitHub\Basic_C#_Programs\Class 2\Class 2\bin\Debug\Class 2.exe
-C:\Users\Laptop\Documents\GitHub\Basic_C#_Programs\Class 2\Class 2\bin\Debug\Class 2.pdb
-C:\Users\Laptop\Documents\GitHub\Basic_C#_Programs\Class 2\Class 2\obj\Debug\Class 2.csproj.AssemblyReference.cache
-C:\Users\Laptop\Documents\GitHub\Basic_C#_Programs\Class 2\Class 2\obj\Debug\Class 2.csproj.CoreCompileInputs.cache
-C:\Users\Laptop\Documents\GitHub\Basic_C#_Programs\Class 2\Class 2\obj\Debug\Class 2.exe
-C:\Users\Laptop\Documents\GitHub\Basic_C#_Programs\Class 2\Class 2\obj\Debug\Class 2.pdb
