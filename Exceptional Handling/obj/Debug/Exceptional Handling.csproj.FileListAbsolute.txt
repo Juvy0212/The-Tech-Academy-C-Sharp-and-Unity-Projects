@@ -1,7 +1,0 @@
-C:\Users\Laptop\Documents\GitHub\Basic_C#_Programs\Exceptional Handling\Exceptional Handling\bin\Debug\Exceptional Handling.exe.config
-C:\Users\Laptop\Documents\GitHub\Basic_C#_Programs\Exceptional Handling\Exceptional Handling\bin\Debug\Exceptional Handling.exe
-C:\Users\Laptop\Documents\GitHub\Basic_C#_Programs\Exceptional Handling\Exceptional Handling\bin\Debug\Exceptional Handling.pdb
-C:\Users\Laptop\Documents\GitHub\Basic_C#_Programs\Exceptional Handling\Exceptional Handling\obj\Debug\Exceptional Handling.csproj.AssemblyReference.cache
-C:\Users\Laptop\Documents\GitHub\Basic_C#_Programs\Exceptional Handling\Exceptional Handling\obj\Debug\Exceptional Handling.csproj.CoreCompileInputs.cache
-C:\Users\Laptop\Documents\GitHub\Basic_C#_Programs\Exceptional Handling\Exceptional Handling\obj\Debug\Exceptional Handling.exe
-C:\Users\Laptop\Documents\GitHub\Basic_C#_Programs\Exceptional Handling\Exceptional Handling\obj\Debug\Exceptional Handling.pdb

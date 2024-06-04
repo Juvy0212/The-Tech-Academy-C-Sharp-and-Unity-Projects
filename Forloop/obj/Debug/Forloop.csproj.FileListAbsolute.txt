@@ -1,7 +1,0 @@
-C:\Users\Laptop\Documents\GitHub\Basic_C#_Programs\Forloop\Forloop\bin\Debug\Forloop.exe.config
-C:\Users\Laptop\Documents\GitHub\Basic_C#_Programs\Forloop\Forloop\bin\Debug\Forloop.exe
-C:\Users\Laptop\Documents\GitHub\Basic_C#_Programs\Forloop\Forloop\bin\Debug\Forloop.pdb
-C:\Users\Laptop\Documents\GitHub\Basic_C#_Programs\Forloop\Forloop\obj\Debug\Forloop.csproj.AssemblyReference.cache
-C:\Users\Laptop\Documents\GitHub\Basic_C#_Programs\Forloop\Forloop\obj\Debug\Forloop.csproj.CoreCompileInputs.cache
-C:\Users\Laptop\Documents\GitHub\Basic_C#_Programs\Forloop\Forloop\obj\Debug\Forloop.exe
-C:\Users\Laptop\Documents\GitHub\Basic_C#_Programs\Forloop\Forloop\obj\Debug\Forloop.pdb
