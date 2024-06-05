@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Laptop\\Documents\\GitHub\\Basic_C#_Programs\\ChallengeAbstract\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB5CC25-AE46-4F12-AFF8-C24BB4F68910}|ChallengeAbstract\\ChallengeAbstract.csproj|c:\\users\\laptop\\documents\\github\\basic_c#_programs\\challengeabstract\\challengeabstract\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CB5CC25-AE46-4F12-AFF8-C24BB4F68910}|ChallengeAbstract\\ChallengeAbstract.csproj|solutionrelative:challengeabstract\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB5CC25-AE46-4F12-AFF8-C24BB4F68910}|ChallengeAbstract\\ChallengeAbstract.csproj|C:\\Users\\Laptop\\Documents\\GitHub\\Basic_C#_Programs\\ChallengeAbstract\\challengeabstract\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CB5CC25-AE46-4F12-AFF8-C24BB4F68910}|ChallengeAbstract\\ChallengeAbstract.csproj|solutionrelative:challengeabstract\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB5CC25-AE46-4F12-AFF8-C24BB4F68910}|ChallengeAbstract\\ChallengeAbstract.csproj|C:\\Users\\Laptop\\Documents\\GitHub\\Basic_C#_Programs\\ChallengeAbstract\\challengeabstract\\persons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CB5CC25-AE46-4F12-AFF8-C24BB4F68910}|ChallengeAbstract\\ChallengeAbstract.csproj|solutionrelative:challengeabstract\\persons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB5CC25-AE46-4F12-AFF8-C24BB4F68910}|ChallengeAbstract\\ChallengeAbstract.csproj|C:\\Users\\Laptop\\Documents\\GitHub\\Basic_C#_Programs\\ChallengeAbstract\\challengeabstract\\iquitable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CB5CC25-AE46-4F12-AFF8-C24BB4F68910}|ChallengeAbstract\\ChallengeAbstract.csproj|solutionrelative:challengeabstract\\iquitable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IQuitable.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Documents\\GitHub\\Basic_C#_Programs\\ChallengeAbstract\\ChallengeAbstract\\IQuitable.cs",
+              "RelativeDocumentMoniker": "ChallengeAbstract\\IQuitable.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Documents\\GitHub\\Basic_C#_Programs\\ChallengeAbstract\\ChallengeAbstract\\IQuitable.cs",
+              "RelativeToolTip": "ChallengeAbstract\\IQuitable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T17:13:02.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Documents\\GitHub\\Basic_C#_Programs\\ChallengeAbstract\\ChallengeAbstract\\Employee.cs",
+              "RelativeDocumentMoniker": "ChallengeAbstract\\Employee.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Documents\\GitHub\\Basic_C#_Programs\\ChallengeAbstract\\ChallengeAbstract\\Employee.cs",
+              "RelativeToolTip": "ChallengeAbstract\\Employee.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAwwBQAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T06:58:36.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Documents\\GitHub\\Basic_C#_Programs\\ChallengeAbstract\\ChallengeAbstract\\Program.cs",
+              "RelativeDocumentMoniker": "ChallengeAbstract\\Program.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Documents\\GitHub\\Basic_C#_Programs\\ChallengeAbstract\\ChallengeAbstract\\Program.cs",
+              "RelativeToolTip": "ChallengeAbstract\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAIA7wBUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T06:38:48.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Persons.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Documents\\GitHub\\Basic_C#_Programs\\ChallengeAbstract\\ChallengeAbstract\\Persons.cs",
+              "RelativeDocumentMoniker": "ChallengeAbstract\\Persons.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Documents\\GitHub\\Basic_C#_Programs\\ChallengeAbstract\\ChallengeAbstract\\Persons.cs",
+              "RelativeToolTip": "ChallengeAbstract\\Persons.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T06:50:04.033Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
